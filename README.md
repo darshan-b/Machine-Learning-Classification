@@ -1,0 +1,2 @@
+# Machine-Learning-Classification
+In Classification we will implement predicting sentiments,logistic regression using the sigmoid function based on maximizing log of likelihood, applying L2 regularization to it. Also, we will be building a Decision Tree model from scratch, a Binary decision tree from scratch, Precision Recall curves. We will also learn and implement ADA Boosting, Ensemble, Gradient Boosting and Stochastic Gradient
